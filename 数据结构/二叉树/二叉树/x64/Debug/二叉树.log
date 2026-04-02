@@ -1,0 +1,9 @@
+﻿  FileName.cpp
+S:\c\二叉树\二叉树\FileName.cpp(17,32): error C2440: “=”: 无法从“void”转换为“BiNode *”
+S:\c\二叉树\二叉树\FileName.cpp(17,32): message : void 类型的表达式不能转换为其他类型
+S:\c\二叉树\二叉树\FileName.cpp(18,32): error C2440: “=”: 无法从“void”转换为“BiNode *”
+S:\c\二叉树\二叉树\FileName.cpp(18,32): message : void 类型的表达式不能转换为其他类型
+S:\c\二叉树\二叉树\FileName.cpp(19,5): error C2562: “createBiList”:“void”函数返回值
+S:\c\二叉树\二叉树\FileName.cpp(10,6): message : 参见“createBiList”的声明
+S:\c\二叉树\二叉树\FileName.cpp(49,14): error C2440: “初始化”: 无法从“void”转换为“BiTree”
+S:\c\二叉树\二叉树\FileName.cpp(49,14): message : void 类型的表达式不能转换为其他类型

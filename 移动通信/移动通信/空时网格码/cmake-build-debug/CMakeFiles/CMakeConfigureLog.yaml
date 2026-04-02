@@ -1,0 +1,50 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "F:/JetBrains/CLion 2024.2.0.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.22631 - AMD64
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "F:/JetBrains/CLion 2024.2.0.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.22631 - AMD64
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "F:/JetBrains/CLion 2024.2.0.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.22631 - AMD64
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "F:/JetBrains/CLion 2024.2.0.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.22631 - AMD64
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "F:/JetBrains/CLion 2024.2.0.1/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.22631 - AMD64

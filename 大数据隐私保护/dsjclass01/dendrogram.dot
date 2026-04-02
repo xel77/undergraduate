@@ -1,0 +1,5 @@
+digraph G {
+  C0 [label="C0: map[user2:true user3:true]"];
+  C1 [label="C1: map[user1:true]"];
+  C0 -> C1;
+}

@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+S:\c\图\图\FileName.cpp(8,2): warning C4091: “typedef ”: 没有声明变量时忽略“node”的左侧
+S:\c\图\图\FileName.cpp(20,2): warning C4091: “typedef ”: 没有声明变量时忽略“graph”的左侧
+S:\c\图\图\FileName.cpp(26,2): warning C4091: “typedef ”: 没有声明变量时忽略“stack”的左侧
+S:\c\图\图\FileName.cpp(51): warning C4715: “pop”: 不是所有的控件路径都返回值
+  图.vcxproj -> S:\c\图\x64\Debug\图.exe
